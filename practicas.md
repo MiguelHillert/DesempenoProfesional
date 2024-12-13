@@ -1,7 +1,7 @@
 La educación es clave para lograr muchos de nuestros otros Objetivos de Desarrollo Sostenible (ODS). Cuando las personas tienen acceso a una educación de calidad, pueden romper el ciclo de la pobreza.
 La educación ayuda a reducir la desigualdad y lograr la igualdad de género. También ayuda a personas de todo el mundo a vivir de forma más saludable y sostenible. La educación también es importante para promover la tolerancia entre las personas y ayudar a desarrollar sociedades más pacíficas.
 
-Prácticas sostenibles en ele ambiente personal:
+Prácticas sostenibles en el ambiente personal:
 
 1.Cuidar el agua 💧.
 Intentar minimizar el consumo de agua y optimizar su uso.  Modificar el consumo de agua a través de acciones como cerrar el grifo mientras te cepillas los dientes, revisar goteos inesperados, reducir la duración de las duchas y otras prácticas, contribuye a la conservación del medio ambiente.
