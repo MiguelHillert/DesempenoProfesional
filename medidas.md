@@ -2,12 +2,11 @@
 
 La idea fundamental del riesgo implica encontrarse con condiciones, incidentes o escenarios que pueden obstruir o promover la evolución rutinaria de un proyecto. Estas cosas pueden llevar a problemas económicos, dificultar el logro de objetivos, o a veces darnos sorpresas agradables.
 
-No todo lo que una empresa maneja son riesgos. Para considerar algo como un riesgo,se deben tener ciertas características, como:
+No todo lo que una empresa maneja son riesgos. Para considerar algo como un riesgo, se deben tener ciertas características como:
 
-Debe estar asociado con la actividad de la empresa.
-La situación es complicada, y no estamos seguros de cómo solucionar o manejar el problema rápidamente.
-El impacto en la empresa es notable, tanto bueno como malo.
-Obstruye, dificulta, impide, pospone procesos o los cambia completamente.
+- Estar asociado con la actividad de la empresa.
+- El impacto en la empresa es notable, tanto bueno como malo.
+- Obstruye y/o dificulta procesos o los cambia completamente.
 
 Los entornos laborales incluyen diferentes cosas que afectan la forma en que las personas trabajan cada día. Aquí presentamos las más importantes.
 
