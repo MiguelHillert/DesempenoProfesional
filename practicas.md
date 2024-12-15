@@ -1,4 +1,4 @@
-## Prácticas Sostenibles en el ámbito Personal
+## 👥 Prácticas Sostenibles en el ámbito Personal
 
 La **educación** es clave para lograr muchos de nuestros Objetivos de Desarrollo Sostenible (*ODS*). Cuando las personas tienen acceso a una educación de calidad, pueden romper el ciclo de la pobreza. Ayuda a reducir la desigualdad y lograr la igualdad de género. También sirve para que las personas de todo el mundo aprendan a vivir de forma más saludable y sostenible. La educación es importante para promover la tolerancia entre las personas y ayudar a desarrollar sociedades más pacíficas.
 
