@@ -2,15 +2,13 @@
 
 La **educación** es clave para lograr muchos de nuestros Objetivos de Desarrollo Sostenible (*ODS*). Cuando las personas tienen acceso a una educación de calidad, pueden romper el ciclo de la pobreza. Ayuda a reducir la desigualdad y lograr la igualdad de género. También sirve para que las personas de todo el mundo aprendan a vivir de forma más saludable y sostenible. La educación es importante para promover la tolerancia entre las personas y ayudar a desarrollar sociedades más pacíficas.
 
-1. *Cuidar el agua* 💧.
-Intentar minimizar el consumo de agua y optimizar su uso.  Modificar el consumo de agua a través de acciones como cerrar el grifo mientras te cepillas los dientes, revisar goteos inesperados, reducir la duración de las duchas y otras prácticas, contribuye a la conservación del medio ambiente.
+Algunas de las acciones que deberíamos de realizar son:
 
-El agua es una sustancia imprescindible y crucial para la existencia humana, fundamental para toda la vida animal y vegetal de la Tierra, es un requisito básico.
+1. *Cuidar el agua* 💧.
+Intentar minimizar el consumo de agua y optimizar su uso.  Modificar el consumo de agua a través de acciones como cerrar el grifo mientras te cepillas los dientes, revisar goteos inesperados, reducir la duración de las duchas y otras prácticas, contribuye a la conservación del medio ambiente. El agua es una sustancia imprescindible y crucial para la existencia humana, fundamental para toda la vida animal y vegetal de la Tierra, es un requisito básico.
 
 2. *Ahorrar energía* 💡.
-Existen varios métodos para conservar la energía eléctrica que usamos cada día.
-
-Cambiar las bombillas viejas por otras eficientes, pintar la casa con tonos que reflejen la luz para aprovechar la luz solar, desenchufar los aparatos electrónicos que no se usan e ir planchando cada dos semanas son acciones sostenibles que se pueden adoptar en casa.
+Existen varios métodos para conservar la energía eléctrica que usamos cada día. Cambiar las bombillas viejas por otras eficientes, pintar la casa con tonos que reflejen la luz para aprovechar la luz solar, desenchufar los aparatos electrónicos que no se usan e ir planchando cada dos semanas son acciones sostenibles que se pueden adoptar en casa.
 
 3. *Producir menos basura* ♻️.
 Para evitar que una cantidad inmensa de basura que podría haber sido procesada para su reutilización llegue al relleno Doña Juana, es aconsejable separarla correctamente de los residuos domésticos. Cualquier material desechado, incluyendo plástico, papel y cartón, que se coloque en el contenedor de color claro podría tener un uso posterior beneficioso. Igual que los excedentes no comestibles y biodegradables, como restos de comida no usada, envases de poliestireno para llevar, colillas de cigarros, artículos de higiene personal, y otras categorías, se depositan en la bolsa oscura.
