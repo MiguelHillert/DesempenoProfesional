@@ -1,4 +1,4 @@
-## Glosario
+## 📘 Glosario
 
 Desarrollo Sostenible:
 
