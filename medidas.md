@@ -11,13 +11,13 @@ Obstruye, dificulta, impide, pospone procesos o los cambia completamente.
 
 Los entornos laborales incluyen diferentes cosas que afectan la forma en que las personas trabajan cada día. Aquí presentamos las más importantes.
 
-- Temperatura: Una de las principales condiciones ambientales en el trabajo. Mantener una temperatura adecuada es fundamental para el confort del trabajador.   Comer alimentos calientes cuando hace frío afuera o alimentos demasiado fríos cuando hace calor puede cambiar tu capacidad para hacer las cosas y puede enfermarte si esto sucede con frecuencia.
+- *Temperatura*: Una de las principales condiciones ambientales en el trabajo. Mantener una temperatura adecuada es fundamental para el confort del trabajador.   Comer alimentos calientes cuando hace frío afuera o alimentos demasiado fríos cuando hace calor puede cambiar tu capacidad para hacer las cosas y puede enfermarte si esto sucede con frecuencia.
 
-- Iluminación: Una iluminación adecuada es crucial en cualquier entorno de trabajo. Las buenas condiciones de trabajo necesitan luces que eliminen el cansancio ocular y faciliten la realización de tareas sin trabajo adicional.
+- *Iluminación*: Una iluminación adecuada es crucial en cualquier entorno de trabajo. Las buenas condiciones de trabajo necesitan luces que eliminen el cansancio ocular y faciliten la realización de tareas sin trabajo adicional.
 
-- Ventilación: Mantener el flujo de aire fresco evita que se acumulen cosas desagradables y mantiene a los trabajadores sanos.
+- *Ventilación*: Mantener el flujo de aire fresco evita que se acumulen cosas desagradables y mantiene a los trabajadores sanos.
 
-- Niveles de ruido: Mantener el silencio es muy importante para que el lugar de trabajo sea un lugar cómodo. 
+- *Niveles de ruido*: Mantener el silencio es muy importante para que el lugar de trabajo sea un lugar cómodo. 
 
 Para que una empresa sea sostenible sostenible deben actuar y se deben concienciar los propios trabajadores y actuar desde un entorno personal:
 
