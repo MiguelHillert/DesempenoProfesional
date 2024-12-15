@@ -21,7 +21,7 @@ Los entornos laborales incluyen diferentes cosas que afectan la forma en que las
 
 Para que una empresa sea sostenible sostenible deben actuar y se deben concienciar los propios trabajadores y actuar desde un entorno personal:
 
-Medidas en el entorno personal:
+**Medidas en el entorno personal**:
 
 Todos y cada uno de los actos de las personas afectan al medioambiente, por ello es esencial adoptar hábitos y decisiones responsables en nuestras acciones cotidianas:
 
