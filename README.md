@@ -2,7 +2,7 @@
 
 _Un trabajo sobre la Sostenibilidad en el Desempeño Profesional y Personal_
 
-![img](img/principal.jpg)
+![img](img/desarrollo_ecoloogico.png)
 
 ---
 
