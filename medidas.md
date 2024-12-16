@@ -18,21 +18,21 @@ Los entornos laborales incluyen diferentes cosas que afectan la forma en que las
 
 - *Niveles de ruido* 🔕 : Mantener el silencio es muy importante para que el lugar de trabajo sea un lugar cómodo. 
 
-Para que una empresa sea sostenible sostenible deben actuar y se deben concienciar los propios trabajadores y actuar desde un entorno personal:
+Para que una empresa sea sostenible sostenible deben actuar y se deben concienciar los propios trabajadores y actuar desde un entorno personal.
 
 **Medidas en el entorno Personal**:
 
 Todos y cada uno de los actos de las personas afectan al medioambiente, por ello es esencial adoptar hábitos y decisiones responsables en nuestras acciones cotidianas:
 
   1. Usar eficientemente la energía.
-  2. Gestionar el agua de forma responsable
-  3. Buscar nuevas oportunidades para valorizar tus residuos
-  4. Optimizar los envases de tus productos
+  2. Gestionar el agua de forma responsable.
+  3. Buscar nuevas oportunidades para valorizar tus residuos.
+  4. Optimizar los envases de tus productos.
   5. Calcular la huella ambiental de tu actividad e identifica objetivos de mejora.
   6. Mejorar la gestión de los materiales y residuos peligrosos.
-  7. Sensibilizar y recibir formación ambiental
-  8. Reducir el volumen y carga contaminante de los vertidos de agua residual
-  9. Mejorar los procesos de diseño de nuevos productos
-  10. Tomar en consideración el medio ambiente
+  7. Sensibilizar y recibir formación ambiental.
+  8. Reducir el volumen y carga contaminante de los vertidos de agua residual.
+  9. Mejorar los procesos de diseño de nuevos productos.
+  10. Tomar en consideración el medio ambiente.
 
 
