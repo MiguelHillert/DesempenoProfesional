@@ -8,7 +8,7 @@ No todo lo que una empresa maneja son riesgos. Para considerar algo como un ries
 - El impacto en la empresa es notable, tanto bueno como malo.
 - Obstruye y/o dificulta procesos o los cambia completamente.
 
-Es importante que el sector industrial, el cual abarca todas las actividades relacionadas con la industria química, la siderurgíca, la meánica, la textil, o la producción de bienes de consumo, tenga en cuenta todo lo que esté relacionado con la sostenibilidad, no sólo por su bien, si no también por el de los trabajadores que forman dicha industria.
+Es importante que el sector **industrial o secundario**, el cual abarca todas las actividades relacionadas con la industria química, la siderurgíca, la meánica, la textil, o la producción de bienes de consumo, tenga en cuenta todo lo que esté relacionado con la sostenibilidad, no sólo por su bien, si no también por el de los trabajadores que forman dicha industria.
 
 Los entornos laborales incluyen diferentes cosas que afectan la forma en que las personas trabajan cada día. Aquí presentamos las más importantes.
 
