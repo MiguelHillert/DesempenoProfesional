@@ -1,4 +1,6 @@
-## 👨‍👩‍👧‍👦 Desempeño Profesional
+## 👨‍👩‍👧‍👦 Desempeño Profesional y Personal
+
+![imagen](img/principal.jpg)
 
 ### Sostenibilidad en las organizaciones: _El equilibrio entre Desempeño Profesional y Personal_
 
