@@ -1,5 +1,15 @@
 ## 📖 Referencias
 
+**Desempeño profesional y personal**
+
+- [Copade.es](https://copade.es/diez-pasos-para-medir-el-desempeno-en-sostenibilidad-de-las-empresas/)
+- [Observatoriorh.com](https://www.observatoriorh.com/orh/criterios-para-alcanzar-la-sostenibilidad-a-traves-de-los-recursos-humanos.html)
+
+**Riesgos y oportunidades que representan los ODS**
+
+- [Somosiberoamerica.org](https://somosiberoamerica.org/tribunas/agenda-2030-para-el-desarrollo-sostenible-7-riesgos-7-oportunidades/)
+- [Sedex.com](https://www.sedex.com/es/blog/por-donde-empezar-con-la-evaluacion-de-riesgos-de-la-cadena-de-suministro/)
+
 **Medidas para atender los retos ambientales desde el entorno personal y profesional**
 
 - [PrevenControl.com](https://prevencontrol.com/prevenblog/condiciones-ambientales-trabajo/)
