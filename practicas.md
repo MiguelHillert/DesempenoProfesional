@@ -34,4 +34,5 @@ La flora y la fauna son componentes de la biodiversidad que habitan el área urb
 10. *Pensar globalmente y actuar localmente* 🌍.
 Creer en un comportamiento ecológico mundial implica darse cuenta de que nuestros patrones de consumo afectan a la naturaleza y si los reducimos en nuestra casa, comunidad o distrito, estaremos ayudando a la transformación global.
 
-Lo que ocurre en nuestro alrededor, altera el mundo. Si colectivamente nos esforzamos por cuidar la naturaleza, percibiremos bienestar y ganancias económicas, y aseguraremos la vitalidad para las futuras generaciones.
+11. *Innovación* 🦾
+La innovación permite crear soluciones tecnológicas y prácticas disruptivas que optimizan recursos, reducen impactos negativos y promueven un desarrollo más equilibrado, mejorando tanto el desempeño profesional como la vida cotidiana.
