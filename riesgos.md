@@ -1,13 +1,12 @@
-La Agenda 2030 para el Desarrollo Sostenible y sus 17 Objetivos de Desarrollo Sostenible (ODS) constituyen un marco global que aborda el desarrollo de manera integral, incluyendo dimensiones económicas, sociales y ambientales. Presentan oportunidades importantes, pero también conllevan ciertos riesgos.
+## 📊 Riesgos y Oportunidades que representan los ODS
 
-Oportunidades
-Desarrollo multidimensional: Los ODS integran objetivos interconectados, basados en sostenibilidad y desarrollo humano, continuando el enfoque de capacidades propuesto por Amartya Sen.
+La Agenda 2030 para el Desarrollo Sostenible y los Objetivos de Desarrollo Sostenible (ODS), que son 17, cada uno con metas específicas que abordan los desafíos globales que enfrentamos, incluida la pobreza, la desigualdad, el cambio climático, la degradación ambiental, la paz y la justicia. Constituyen un marco global que aborda el desarrollo de manera integral, incluyendo dimensiones económicas, sociales y ambientales. Presentan oportunidades importantes, pero también conllevan ciertos riesgos.
 
-Derecho al desarrollo: Refuerzan la declaración de 1986 sobre el derecho al desarrollo, proponiendo un conjunto universal de prioridades que compromete a la comunidad internacional.
-
-Unificación de agendas: Combinan los enfoques de desarrollo humano y sostenible, evitando esfuerzos dispersos y creando un modelo operativo integrado.
-
-Mejora de la gestión: Facilitan la planificación, evaluación y rendición de cuentas, tanto a nivel nacional como internacional, promoviendo políticas de desarrollo coherentes y eficientes.
+### Oportunidades
+- Desarrollo multidimensional: Los ODS integran objetivos interconectados, basados en sostenibilidad y desarrollo humano, continuando el enfoque de capacidades propuesto por Amartya Sen.
+- Derecho al desarrollo: Refuerzan la declaración de 1986 sobre el derecho al desarrollo, proponiendo un conjunto universal de prioridades que compromete a la comunidad internacional.
+- Unificación de agendas: Combinan los enfoques de desarrollo humano y sostenible, evitando esfuerzos dispersos y creando un modelo operativo integrado.
+- Mejora de la gestión: Facilitan la planificación, evaluación y rendición de cuentas, tanto a nivel nacional como internacional, promoviendo políticas de desarrollo coherentes y eficientes.
 
 Universalidad: A diferencia de los Objetivos de Desarrollo del Milenio (ODM), los ODS implican tanto a países desarrollados como en desarrollo, fomentando una cooperación global más equitativa.
 
@@ -15,7 +14,7 @@ Movilización política y social: Generan conciencia solidaria y apoyo internaci
 
 Provisión de bienes públicos globales: Contribuyen a mejoras en salud, educación, medioambiente y seguridad, esenciales para el desarrollo humano sostenible.
 
-Riesgos
+### Riesgos
 Reduccionismo: Simplificar su implementación puede llevar a ignorar las particularidades de los contextos locales y a soluciones inapropiadas para retos específicos.
 
 Problemas de atribución: Los ODS no detallan los recursos y procesos necesarios para alcanzar los resultados, dificultando la evaluación de responsabilidades individuales de los países.
