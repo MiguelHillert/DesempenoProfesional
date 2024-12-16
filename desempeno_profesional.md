@@ -6,21 +6,21 @@ La sostenibilidad en las empresas no solo depende de estrategias medioambientale
 
 #### Desempeño profesional en materia de sostenibilidad:
 
-- Formación y desarrollo profesional: Capacitar a los equipos para que comprendan la sostenibilidad y apliquen mejoras en sus áreas.
-- Organización del trabajo: Fomentar prácticas laborales que impulsen la eficiencia sin comprometer el bienestar.
-- Evaluación del desempeño: Reconocer y valorar la contribución de los empleados en iniciativas de sostenibilidad.
-- Comunicación y participación: Promover el diálogo abierto para involucrar al personal en la identificación de problemas y propuestas sostenibles.
-- Retribución y beneficios: Incentivar acciones sostenibles a través de recompensas y beneficios alineados con los objetivos de la organización.
-- Asociación y negociación: Facilitar acuerdos colectivos que garanticen condiciones laborales sostenibles y éticas.
+- *Formación y desarrollo profesional*: Capacitar a los equipos para que comprendan la sostenibilidad y apliquen mejoras en sus áreas.
+- *Organización del trabajo*: Fomentar prácticas laborales que impulsen la eficiencia sin comprometer el bienestar.
+- *Evaluación del desempeño*: Reconocer y valorar la contribución de los empleados en iniciativas de sostenibilidad.
+- *Comunicación y participación*: Promover el diálogo abierto para involucrar al personal en la identificación de problemas y propuestas sostenibles.
+- *Retribución y beneficios*: Incentivar acciones sostenibles a través de recompensas y beneficios alineados con los objetivos de la organización.
+- *Asociación y negociación*: Facilitar acuerdos colectivos que garanticen condiciones laborales sostenibles y éticas.
 
 #### Desempeño personal relacionado con la sostenibilidad:
 
-- Igualdad y diversidad: Garantizar que todos los empleados disfruten de un entorno inclusivo, respetuoso y libre de discriminación.
-- Seguridad y salud: Implementar medidas para proteger el bienestar físico y mental del personal.
-- Conciliación: Diseñar políticas que permitan un equilibrio entre la vida profesional y personal, mejorando así la calidad de vida.
-- Entornos accesibles: Asegurar que las instalaciones sean inclusivas y aptas para personas con diversas capacidades.
-- Clima laboral: Realizar seguimientos del ambiente de trabajo para garantizar un entorno positivo, respetuoso y colaborativo.
-- Respeto a la dignidad: Proteger la integridad y los derechos de cada persona, generando confianza y cohesión en el equipo.
+- *Igualdad y diversidad*: Garantizar que todos los empleados disfruten de un entorno inclusivo, respetuoso y libre de discriminación.
+- *Seguridad y salud*: Implementar medidas para proteger el bienestar físico y mental del personal.
+- *Conciliación*: Diseñar políticas que permitan un equilibrio entre la vida profesional y personal, mejorando así la calidad de vida.
+- *Entornos accesibles*: Asegurar que las instalaciones sean inclusivas y aptas para personas con diversas capacidades.
+- *Clima laboral*: Realizar seguimientos del ambiente de trabajo para garantizar un entorno positivo, respetuoso y colaborativo.
+- *Respeto a la dignidad*: Proteger la integridad y los derechos de cada persona, generando confianza y cohesión en el equipo.
 
 ### Conexión entre el impacto y los resultados
 
@@ -36,4 +36,4 @@ Al medir el impacto de las acciones sostenibles, las organizaciones pueden:
 - Atraer y retener talento alineado con valores de sostenibilidad.
 - Cumplir con normativas y ganar prestigio como referentes en responsabilidad social.
 
-En definitiva, la sostenibilidad no solo transforma las operaciones de la empresa, sino que también impulsa el desarrollo personal y profesional de quienes la conforman. Ser una organización sostenible significa cuidar a las personas, fomentar su crecimiento y actuar de manera ética para construir un futuro mejor.
+En definitiva, la **sostenibilidad no solo transforma las operaciones de la empresa**, sino que también impulsa el desarrollo personal y profesional de quienes la conforman. Ser una organización sostenible significa cuidar a las personas, fomentar su crecimiento y actuar de manera ética para construir un futuro mejor.
