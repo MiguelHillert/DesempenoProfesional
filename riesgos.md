@@ -14,6 +14,10 @@ Movilización política y social: Generan conciencia solidaria y apoyo internaci
 
 Provisión de bienes públicos globales: Contribuyen a mejoras en salud, educación, medioambiente y seguridad, esenciales para el desarrollo humano sostenible.
 
+-------------------------------------
+
+Las empresas deben identificar riesgos sostenibles evaluando su cadena de valor, operaciones y entorno, considerando factores como el impacto ambiental y la vulnerabilidad climática, utilizando auditorías y diagnósticos como herramientas clave. En este contexto el ODS 9, enfocado en la industria, innovación e infraestructura, promueve una industrialización inclusiva y sostenible, fomenta la innovación tecnológica y el desarrollo de infraestructuras resilientes, permitiendo a las empresas reducir riesgos y fortalecer sus operaciones de manera alineada con el desarrollo global.
+
 ### Riesgos
 Reduccionismo: Simplificar su implementación puede llevar a ignorar las particularidades de los contextos locales y a soluciones inapropiadas para retos específicos.
 
