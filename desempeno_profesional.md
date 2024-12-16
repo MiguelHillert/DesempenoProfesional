@@ -2,7 +2,7 @@
 
 ### Sostenibilidad en las organizaciones: _El equilibrio entre desempeño profesional y personal_
 
-La sostenibilidad en las empresas no solo depende de estrategias medioambientales y sociales, sino también de cómo se gestionan las personas, los verdaderos agentes del cambio. El departamento de Recursos Humanos juega un papel esencial al involucrar a los equipos en la toma de decisiones y en la implementación de planes sostenibles. La clave está en comprender las necesidades y expectativas de los grupos de interés y alinearlas con los Objetivos de Desarrollo Sostenible (ODS).
+La sostenibilidad en las empresas no solo depende de estrategias medioambientales y sociales, sino también de cómo se gestionan las personas, los verdaderos agentes del cambio. El departamento de Recursos Humanos juega un papel esencial al involucrar a los equipos en la toma de decisiones y en la implementación de planes sostenibles. La clave está en comprender las necesidades y expectativas de los grupos de interés y alinearlas con los Objetivos de Desarrollo Sostenible (*ODS*), que son 17 objetivos, cada uno en metas específicas que abordan los desafíos globales que enfrentamos, incluida la pobreza, la desigualdad, el cambio climático, la degradación ambiental, la paz y la justicia.
 
 #### Desempeño profesional en materia de sostenibilidad:
 
