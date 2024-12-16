@@ -8,6 +8,8 @@ No todo lo que una empresa maneja son riesgos. Para considerar algo como un ries
 - El impacto en la empresa es notable, tanto bueno como malo.
 - Obstruye y/o dificulta procesos o los cambia completamente.
 
+Es importante que el sector industrial, el cual abarca todas las actividades relacionadas con la industria química, la siderurgíca, la meánica, la textil, o la producción de bienes de consumo, tenga en cuenta todo lo que esté relacionado con la sostenibilidad, no sólo por su bien, si no también por el de los trabajadores que forman dicha industria.
+
 Los entornos laborales incluyen diferentes cosas que afectan la forma en que las personas trabajan cada día. Aquí presentamos las más importantes.
 
 - *Temperatura* 🌡️ : Una de las principales condiciones ambientales en el trabajo. Mantener una temperatura adecuada es fundamental para el confort del trabajador. Comer alimentos calientes cuando hace frío afuera o alimentos demasiado fríos cuando hace calor puede cambiar tu capacidad para hacer las cosas y puede enfermarte si esto sucede con frecuencia.
